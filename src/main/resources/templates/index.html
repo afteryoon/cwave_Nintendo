@@ -289,7 +289,7 @@
         seatElement.classList.add('ENDED');
       } else {
         timeElement.textContent = data.remainingMinutes + '분 후 종료';
-        if (data.remainingMinutes <= 115) { //확인하고 5로 줄이이기
+        if (data.remainingMinutes <= 5) { //확인하고 5로 줄이이기
           seatElement.classList.add('WARNING');
         } else {
           seatElement.classList.add('IN_USE');
@@ -488,7 +488,7 @@
         </div>
     `;
 
-    reservationsList.insertBefore(newReservation, reservationsList.firstChild);
+    reservationsList.appendChild(newReservation);
   }
 
   function formatTime(dateTimeString) {
