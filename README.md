@@ -9,14 +9,13 @@
 ### 메인 화면
 <table>
  <tr>
-   <td><img src="images/main1.png" width="300" alt="메인 대시보드"/></td>
-   <td><img src="images/main2.png" width="300" alt="실시간 좌석 현황"/></td>
-   <td><img src="images/main3.png" width="300" alt="예약 관리"/></td>
+   <td><img src="images/main1.png" width="300"/></td>
+   <td><img src="images/main2.png" width="300"/></td>
  </tr>
  <tr>
-   <td><img src="images/detail1.png" width="300" alt="좌석 상태"/></td>
-   <td><img src="images/detail2.png" width="300" alt="실시간 알림"/></td>
-   <td><img src="images/detail3.png" width="300" alt="통계 현황"/></td>
+   <td><img src="images/detail1.png" width="300"/></td>
+   <td><img src="images/detail2.png" width="300"/></td>
+   <td><img src="images/detail3.png" width="300"/></td>
  </tr>
 </table>
 
