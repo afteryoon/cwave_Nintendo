@@ -61,7 +61,6 @@
 ```mermaid
 erDiagram
    Seat ||--o{ SeatUsage : has
-   Seat ||--o{ Reservation : has
 
    Seat {
        Long id PK
