@@ -9,13 +9,13 @@
 ### 메인 화면
 <table>
  <tr>
-   <td><img src="images/main1.png" width="300"/></td>
+   <td><img src="images/main1.png" width="300" /></td>
    <td><img src="images/main2.png" width="300"/></td>
  </tr>
  <tr>
-   <td><img src="images/detail1.png" width="300"/></td>
-   <td><img src="images/detail2.png" width="300"/></td>
-   <td><img src="images/detail3.png" width="300"/></td>
+   <td><img src="images/detail1.png" width="300" /></td>
+   <td><img src="images/detail2.png" width="300" /></td>
+   <td><img src="images/detail3.png" width="300" /></td>
  </tr>
 </table>
 
