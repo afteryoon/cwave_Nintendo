@@ -15,6 +15,7 @@
   <td><img src="./docs/detail3.png" width="300"/></td>
  </tr>
 </table>
+
 ### 행사 사진
 <table>
  <tr>
