@@ -15,6 +15,14 @@
   <td><img src="./docs/detail3.png" width="300"/></td>
  </tr>
 </table>
+### 행사 사진
+<table>
+ <tr>
+   <td><img src="https://github.com/user-attachments/assets/fe125c45-8b45-4049-ac7d-4922692068dd" width="300" /></td>
+   <td><img src="https://github.com/user-attachments/assets/7523ed4c-56ca-438d-9a39-559da12bdbc0" width="300"/></td>
+  <td><img src="https://github.com/user-attachments/assets/5a6e7542-c7c6-40ac-93cc-c384ddb66e25" width="300"/></td>
+ </tr>
+</table>
 
 ## 🛠 주요 기능
 ### 1. 실시간 좌석 관리
